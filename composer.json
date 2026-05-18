@@ -1,0 +1,14 @@
+{
+    "name": "weather-condition-checker/weather-condition-checker",
+    "description": "A simple PHP script that determines the weather condition based on temperature.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "Developer"
+        }
+    ]
+}
